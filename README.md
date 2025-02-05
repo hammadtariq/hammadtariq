@@ -1,13 +1,22 @@
-## Hi there 👋
-### Full Stack Developer 'React, Node, AWS'
+# Hi there 👋
+<h3 align="center">Full Stack Developer Specialized in Hospitality and Real Estate Domain</h3>
 With over 10 years of experience in the JavaScript ecosystem, I specialize in full-stack development. I’ve worked with Fortune 500 companies like Macy’s, Gap, Williams-Sonoma, and Prologis, building scalable systems using React, NextJS, NodeJS, and AWS.
 
 ## 💫 Talking about Personal Stuffs
 🔭 Currently working as a Tech Lead / Mentor for Talpods <br>👯 Looking to collaborate on Langbase 🤝<br>🌱 Learning AI development<br>💬 Loves to talk about anything related to Technology and Space<br>⚡️ Fun-Fact: I give tech talks for trending tools and framework in JS community
 
-## 🏆 Domain Specialization
-- Real Estate
-- Hospitality
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUwd2ZqOHVrY2xzZTE5ZXR3N3JvcXJxZmdpN244ZW00YThsZTZjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400">
+</div>
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hammadtariq&label=Profile%20views&color=0e75b6&style=flat" alt="hammad tariq" />
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+</p>
 
 ## 💻 Tech Stack
 <div align="left">
@@ -108,13 +117,6 @@ With over 10 years of experience in the JavaScript ecosystem, I specialize in fu
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hammadtariq65@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hammadtariq65) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/hammadtariq65) 
 
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-</p>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hammadtariq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -128,15 +130,7 @@ With over 10 years of experience in the JavaScript ecosystem, I specialize in fu
   <img src="https://github-readme-stats.vercel.app/api?username=hammadtariq&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq&theme=radical&hide_border=false" width="48%" />
 </p>
-
-###
-## 🏆 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hammadtariq/count.svg?"  />
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=hammadtariq&icon=0&color=0)](https://visitcount.itsvg.in)
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadtariq/hammadtariq/output/github-snake-dark.svg" />
@@ -144,5 +138,3 @@ With over 10 years of experience in the JavaScript ecosystem, I specialize in fu
   <img alt="github-snake" src="https://raw.githubusercontent.com/hammadtariq/hammadtariq/output/github-snake.svg" />
 </picture>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
