@@ -102,6 +102,7 @@ With over 10 years of experience in the JavaScript ecosystem, I specialize in fu
 </div>
 
 ## 📫 How To Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammadtariq1)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hammadtariq/)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-8A2BE2)](https://tariqhammad.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hammadtariq65@gmail.com)
